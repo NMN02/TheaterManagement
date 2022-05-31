@@ -4,6 +4,7 @@ Theater Management Sytem is a java project. This project store information about
 Instruction to run this project:
   - Open file in an IDE
   - Run the main class
+  - inter the needed data/information
 
 BSIT 1 - BLOCK 2
 Members: 
